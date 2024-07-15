@@ -23,6 +23,7 @@ c Department of Electrical and Computer Engineering, University of Illinois Chic
 
 https://www.sciencedirect.com/science/article/pii/S0893608024004428
 
+# If this code is helpful to you, please cite this paper as follows, thank you!
 # Citation
 
 @article{YU2024106518,
