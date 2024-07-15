@@ -18,7 +18,9 @@ A two-stage importance-aware subgraph convolutional network based on multi-sourc
 a. Yue Yu, a. Youqian He, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
 
 a Department of Mechanical Engineering, Politecnico di Milano, via La Masa 1, Milan 20156, Italy
+
 b School of Computing and Engineering, University of Huddersfield, Queensgate, Huddersfield, HD1 3DH, UK
+
 c Department of Electrical and Computer Engineering, University of Illinois Chicago, Chicago, USA
 
 https://www.sciencedirect.com/science/article/pii/S0893608024004428
