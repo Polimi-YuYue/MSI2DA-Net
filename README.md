@@ -8,7 +8,19 @@ Experimental codes for paper "Importance-aware Subgraph Convolutional Networks B
 <img src="https://github.com/Polimi-YuYue/MSI2DA-Net/blob/main/Overall%20Framework.png" width="700px">
 </div>
 
-# MSI2DA-Net
+
+# Paper
+
+A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis
+
+a. Yue Yu, a. Youqian He, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
+
+a Department of Mechanical Engineering, Politecnico di Milano, via La Masa 1, Milan 20156, Italy
+b School of Computing and Engineering, University of Huddersfield, Queensgate, Huddersfield, HD1 3DH, UK
+c Department of Electrical and Computer Engineering, University of Illinois Chicago, Chicago, USA
+
+https://www.sciencedirect.com/science/article/pii/S0893608024004428
+
 
 @article{YU2024106518,
 title = {A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis},
