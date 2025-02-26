@@ -13,7 +13,7 @@ Graph convolutional networks (GCNs) as the emerging neural networks have shown g
 
 # Paper
 
-A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis
+# A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis
 
 a. Yue Yu, a. Youqian He, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
 
