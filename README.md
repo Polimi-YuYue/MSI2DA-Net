@@ -13,9 +13,9 @@ Graph convolutional networks (GCNs) as the emerging neural networks have shown g
 
 # Paper
 
-A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis
+MSIFT: A novel end-to-end mechanical fault diagnosis framework under limited & imbalanced data using multi-source information fusion
 
-a. Yue Yu, a. Youqian He, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
+a. Yue Yu, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
 
 a Department of Mechanical Engineering, Politecnico di Milano, via La Masa 1, Milan 20156, Italy
 
@@ -23,17 +23,18 @@ b School of Computing and Engineering, University of Huddersfield, Queensgate, H
 
 c Department of Electrical and Computer Engineering, University of Illinois Chicago, Chicago, USA
 
-https://www.sciencedirect.com/science/article/pii/S0893608024004428
+https://www.sciencedirect.com/science/article/pii/S095741742500569X#:~:text=To%20solve%20these%20issues%2C%20a%20novel%20end-to-end%20mechanical,fusion%20is%20proposed%20to%20model%20data-level%20and%20algorithm-le
 
 # If this code is helpful to you, please cite this paper as follows, thank you!
 # Citation
 
-@article{YU2024106518,
-title = {A two-stage importance-aware subgraph convolutional network based on multi-source sensors for cross-domain fault diagnosis},
-journal = {Neural Networks},
-pages = {106518},
-year = {2024},
-issn = {0893-6080},
-doi = {https://doi.org/10.1016/j.neunet.2024.106518},
-url = {https://www.sciencedirect.com/science/article/pii/S0893608024004428},
-author = {Yue Yu and Youqian He and Hamid Reza Karimi and Len Gelman and Ahmet Enis Cetin},}
+@article{YU2025126947,
+title = {MSIFT: A novel end-to-end mechanical fault diagnosis framework under limited & imbalanced data using multi-source information fusion},
+journal = {Expert Systems with Applications},
+volume = {274},
+pages = {126947},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.126947},
+url = {https://www.sciencedirect.com/science/article/pii/S095741742500569X},
+author = {Yue Yu and Hamid Reza Karimi and Len Gelman and Ahmet Enis Cetin},}
